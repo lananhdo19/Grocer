@@ -5,6 +5,6 @@ Compensation to each user as a future implementation with a Paypal or Venmo API.
 
 Created with a MEAN webstack (React, Node.js, Express.js, MongoDB)
 
-# To Run
+!# To Run
 Use `npm start` in terminal
 
